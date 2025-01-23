@@ -1,0 +1,6 @@
+- **Core Features:**
+    - **API Design:** Creating simple GET, POST, PUT, DELETE routes for managing tasks.
+    - **Database Interaction:** Using Mongoose to store and retrieve tasks in MongoDB.
+    - **Basic CRUD Operations:** Implementing standard CRUD operations (Create, Read, Update, Delete).
+    - **Request Handling:** Parsing request bodies to extract task data.
+    - **Response Handling:** Sending appropriate JSON responses with data or status messages.
