@@ -37,6 +37,5 @@
 
 ## **🧑‍💻 CONTRIBUTORS**
 
-*   [Your Name](Link to your GitHub profile)
-*   [Contributor 2 Name](Link to their GitHub profile)
-*   [Add More Contributors Here]
+*   Gauri Shirke https://github.com/GauriShirke12
+*   Giri Naik https://github.com/Mudavath-Giri-Naik
