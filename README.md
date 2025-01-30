@@ -4,7 +4,7 @@
 
 **Website Live Here:** [Your Live Website Link Here] 🌐
 
-## **💻 LOCAL SETUP**
+## **💻 LOCAL SETUP **
 
 1.  Clone: `git clone https://github.com/<your_github_username>/task-api.git`
 2.  Backend:
