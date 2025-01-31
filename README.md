@@ -9,7 +9,7 @@
 1.  Clone: `git clone https://github.com/<your_github_username>/task-api.git`
 2.  Backend:
     *   `cd backend && npm install`
-    *   `.env`: `MONGODB_URI="mongodb+srv://..."` (See Full Setup Guide)
+    *   `.env`: `MONGODB_URI="mongodb+srv://..."` (See Full Setup Guide here)
     *   `npm run dev`
 3.  Frontend:
     *   `cd ../frontend && npm install`
